@@ -53,3 +53,7 @@ Substitua `nome-da-imagem.png` pelo nome da imagem desejada e ajuste os parâmet
 - **h**: Altura desejada da imagem.
 - **gray**: Se definido como 1, a imagem será convertida para escala de cinza.
 
+### Entrega com o melhor tempo de resposta
+
+Para alcançar uma entrega diretamente do bucket de forma mais rápida levando em consideração posicionamento geográfico é aconselhado utilizar CDN para realizar a distribuição.
+
